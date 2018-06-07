@@ -1,0 +1,51 @@
+/* 
+  Localizables.strings
+  TPFinal-iOS
+
+  Created by Steven F. on 07/06/2018.
+  Copyright © 2018 Steven F. All rights reserved.
+*/
+
+/* USER LIST STRINGS */
+"search_user" = "Research one user...";
+"txt_company" = "Company name : ";
+
+/* ALBUMS STRINGS */
+"search_albums" = "Research one album...";
+"albums" = "Album : ";
+
+/* PHOTOS STRINGS */
+"photos" = "Photo N°";
+"txt_albumName" = "Album name : ";
+
+/* UTILS STRINGS */
+"btn_ok" = "Ok";
+"btn_yes" = "Yes";
+"btn_no" = "No";
+"btn_restart" = "Restart";
+"btn_cancel" = "Cancel";
+"title_error" = "Error";
+
+/* MAPS STRINGS */
+"txt_mapTitle" = "Confirm the action ?";
+"txt_mapPage" = "You will be redirected to this user's album list.";
+
+/* INTERNET CONNECTION STRINGS */
+"txt_network" = "Error connection";
+"txt_startNetwork" = "You need an internet connection to use this application. Activate it and try again in a few moments.";
+"txt_missNetwork" = "You have lost your internet connection, activate it and click on the \"Restart\" button to relaunch the application.";
+
+/* APP INFO STRINGS */
+"app_info" = "App informations";
+"app_info_description" = "Please choose the desired action to get the information from the application.";
+"error_app_publish" = "The application is not published so no page of the store is available (see AppDelegate.swift if your app is published).";
+"error_other_description" = "No website URL for this developer is defined, see AppDelegate.swift";
+
+"txt_help" = "How to play ?";
+"txt_helpPage" = "Build your space fleet, upgrade your buildings and your technological research to fight your enemies to become the best invader of space.";
+"txt_about" = "About";
+"txt_rateme" = "Rate me";
+"txt_others" = "Others apps";
+"txt_aboutPage" = "Used a placeholder JSON for make a amazing prototyping application.";
+
+

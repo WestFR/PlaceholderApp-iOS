@@ -1,0 +1,33 @@
+PODS:
+  - Alamofire (4.7.2)
+  - AlamofireImage (3.3.1):
+    - Alamofire (~> 4.5)
+  - CollectionViewSlantedLayout (3.0.1)
+  - KDLoadingView (1.0.4)
+  - Pulsator (0.5.1)
+
+DEPENDENCIES:
+  - Alamofire (~> 4.7)
+  - AlamofireImage (~> 3.3)
+  - CollectionViewSlantedLayout (~> 3.0)
+  - KDLoadingView (~> 1.0)
+  - Pulsator
+
+SPEC REPOS:
+  https://github.com/CocoaPods/Specs.git:
+    - Alamofire
+    - AlamofireImage
+    - CollectionViewSlantedLayout
+    - KDLoadingView
+    - Pulsator
+
+SPEC CHECKSUMS:
+  Alamofire: e4fa87002c137ba2d8d634d2c51fabcda0d5c223
+  AlamofireImage: 3b35b586853abaf94ca1250f4e94cff3c21a4c0d
+  CollectionViewSlantedLayout: 8c8ebc112e3ac1c3318a916aa9c8d9f1901f0dd9
+  KDLoadingView: fcb015daf91c245f0a212fd52b8061621f421dfe
+  Pulsator: f465ca37212d826523fe8c79b07c1a4c1a941f5e
+
+PODFILE CHECKSUM: 390f9f69979645dd0424a1cc4f5f2bfa1f5d9158
+
+COCOAPODS: 1.5.0

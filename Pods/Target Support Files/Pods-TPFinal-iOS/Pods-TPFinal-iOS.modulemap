@@ -1,0 +1,6 @@
+framework module Pods_TPFinal_iOS {
+  umbrella header "Pods-TPFinal-iOS-umbrella.h"
+
+  export *
+  module * { export * }
+}

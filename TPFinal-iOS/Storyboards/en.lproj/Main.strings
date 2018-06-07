@@ -1,0 +1,57 @@
+
+/* Class = "UINavigationItem"; title = "Map"; ObjectID = "0eN-r4-q5t"; */
+"0eN-r4-q5t.title" = "Map";
+
+/* Class = "UIBarButtonItem"; title = "Back"; ObjectID = "3bW-g7-6vl"; */
+"3bW-g7-6vl.title" = "Back";
+
+/* Class = "UITabBarItem"; title = "User list"; ObjectID = "5q9-WD-puv"; */
+"5q9-WD-puv.title" = "User list";
+
+/* Class = "UILabel"; text = "Company"; ObjectID = "65k-O7-UpA"; */
+"65k-O7-UpA.text" = "Company";
+
+/* Class = "UINavigationItem"; title = "Photo"; ObjectID = "9uQ-sX-SzX"; */
+"9uQ-sX-SzX.title" = "Photo";
+
+/* Class = "UILabel"; text = "Photo title"; ObjectID = "E9I-PP-h7h"; */
+"E9I-PP-h7h.text" = "Photo title";
+
+/* Class = "UIBarButtonItem"; title = "Back"; ObjectID = "H7t-13-7JO"; */
+"H7t-13-7JO.title" = "Back";
+
+/* Class = "UILabel"; text = "Album Title"; ObjectID = "HjL-S0-QSD"; */
+"HjL-S0-QSD.text" = "Album Title";
+
+/* Class = "UICollectionViewController"; title = "Photos"; ObjectID = "PP4-wO-pZ4"; */
+"PP4-wO-pZ4.title" = "Photos";
+
+/* Class = "UILabel"; text = "Album name : "; ObjectID = "S5R-28-M55"; */
+"S5R-28-M55.text" = "Album name : ";
+
+/* Class = "UITableViewController"; title = "Albums"; ObjectID = "SUb-If-fzg"; */
+"SUb-If-fzg.title" = "Albums";
+
+/* Class = "UINavigationItem"; title = "User list"; ObjectID = "XVC-kR-GGq"; */
+"XVC-kR-GGq.title" = "User list";
+
+/* Class = "UITabBarItem"; title = "Map"; ObjectID = "hqP-c8-K72"; */
+"hqP-c8-K72.title" = "Map";
+
+/* Class = "UILabel"; text = "User pseudo"; ObjectID = "isR-qi-hFY"; */
+"isR-qi-hFY.text" = "User pseudo";
+
+/* Class = "UILabel"; text = "Username"; ObjectID = "ktQ-dC-Tkq"; */
+"ktQ-dC-Tkq.text" = "Username";
+
+/* Class = "UINavigationItem"; title = "Photos"; ObjectID = "tne-jN-p2L"; */
+"tne-jN-p2L.title" = "Photos";
+
+/* Class = "UIBarButtonItem"; title = "Back"; ObjectID = "vE4-yk-YWl"; */
+"vE4-yk-YWl.title" = "Back";
+
+/* Class = "UIBarButtonItem"; title = "Back"; ObjectID = "y3D-wH-CND"; */
+"y3D-wH-CND.title" = "Back";
+
+/* Class = "UINavigationItem"; title = "Albums"; ObjectID = "z98-4H-p8H"; */
+"z98-4H-p8H.title" = "Albums";

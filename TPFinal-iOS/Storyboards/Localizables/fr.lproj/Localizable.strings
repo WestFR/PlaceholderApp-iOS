@@ -1,0 +1,51 @@
+/* 
+  Localizables.strings
+  TPFinal-iOS
+
+  Created by Steven F. on 07/06/2018.
+  Copyright © 2018 Steven F. All rights reserved.
+*/
+
+/* USER LIST STRINGS */
+"search_user" = "Rechercher un utilisateur...";
+"txt_company" = "Nom de l'entreprise : ";
+
+/* ALBUMS STRINGS */
+"search_albums" = "Rechercher un album...";
+"albums" = "Album : ";
+
+/* PHOTOS STRINGS */
+"photos" = "Photo N°";
+"txt_albumName" = "Nom de l'album : ";
+
+/* UTILS STRINGS */
+"btn_ok" = "Ok";
+"btn_yes" = "Oui";
+"btn_no" = "Non";
+"btn_restart" = "Redémarrer";
+"btn_cancel" = "Annuler";
+"title_error" = "Erreur";
+
+/* MAPS STRINGS */
+"txt_mapTitle" = "Confirmer l'action ?";
+"txt_mapPage" = "Vous serez redirigés vers la liste des albums de cette utilisateur.";
+
+/* INTERNET CONNECTION STRINGS */
+"txt_network" = "Erreur de connexion";
+"txt_startNetwork" = "Vous avez besoin d'une connexion Internet pour utiliser cette application. Activez-la et réessayez dans quelques instants.";
+"txt_missNetwork" = "Vous avez perdu votre connexion internet, activez-la et cliquer sur le bouton \"Redémarrer\" pour relancer l'application.";
+
+/* APP INFO STRINGS */
+"app_info" = "Informations de l'application";
+"app_info_description" = "Veuillez choisir l'action souhaitée pour obtenir les informations de l'application.";
+"error_app_publish" = "L'application n'est pas publiée, donc aucune page du magasin n'est disponible (voir AppDelegate.swift si votre application est publiée).";
+"error_other_description" = "Aucune URL de site Web pour ce développeur n'est définie, voir AppDelegate.swift";
+
+"txt_help" = "Comment jouer ?";
+"txt_helpPage" = "Construisez votre flotte spatiale, améliorez vos bâtiments et vos recherches technologiques pour combattre vos ennemis et devenir le meilleur envahisseur de l'espace.";
+"txt_about" = "A propos";
+"txt_rateme" = "Notez moi";
+"txt_others" = "Autres applications";
+"txt_aboutPage" = "Utilisation d'un JSON placeholder pour faire une application de prototypage incroyable.";
+
+
