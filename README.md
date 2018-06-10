@@ -13,7 +13,7 @@ This application uses network communications to display the data. The latter are
 
 It only remains to modify the different layers (network / models) to display your own data !
 
-<img src="screens/1-UserList.jpg" width="200">  <img src="screens/2-Alerts.jpg" width="200">  <img src="screens/3-Map.jpg" width="200"> <img src="screens/4-PhotoGallery.jpg" width="200">
+<img src="screens/1-UserList.png" width="200">  <img src="screens/2-Alerts.png" width="200">  <img src="screens/3-Map.png" width="200"> <img src="screens/4-PhotoGallery.png" width="200">
 
 
 ## Features
